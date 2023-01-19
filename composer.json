@@ -1,0 +1,19 @@
+{
+    "name": "sweet/sweet-template",
+    "description": "Uma template engine baseada no Smarty",
+    "autoload": {
+        "psr-4": {
+            "Sweet\\SweetTemplate\\": "App/",
+            "Lib\\": "vendor/Lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Devpoa Software",
+            "email": "suporte.devpoa@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
